@@ -57,6 +57,7 @@ Para validar o funcionamento da captura de dados (POST), foi desenvolvida uma p√
 
 <img width="1143" height="573" alt="Captura de tela 2026-01-30 095235" src="https://github.com/user-attachments/assets/2d4a1052-fb39-4bb7-be16-486a3e0d38ef" />
 <img width="689" height="319" alt="Captura de tela 2026-01-30 095211" src="https://github.com/user-attachments/assets/3a5b81d8-7c34-415a-9ac3-9ffc7280cb5b" />
+
 O desafio se encerraria por ai, at√© vir a ideia de testar um site de jogos que tem login e senha na mesma etapa, Rockstar Games:
 <img width="1282" height="676" alt="Captura de tela 2026-01-31 210627" src="https://github.com/user-attachments/assets/8f31a81d-1527-4f4e-9095-3705984cc473" />
 <img width="857" height="157" alt="Captura de tela 2026-01-31 210052" src="https://github.com/user-attachments/assets/f6a5db21-d19e-41bd-9716-1544e4c4e0ce" />
