@@ -33,7 +33,7 @@ Passo a passo:
 
 <img width="1053" height="665" alt="Captura de tela 2026-01-25 182501" src="https://github.com/user-attachments/assets/dff08f05-0321-435c-bf12-8c5d5b0717d8" />
 
-Durante os testes iniciais, observou-se que grandes plataformas utilizam defesas modernas que dificultam a clonagem automática via SEToolkit
+Durante os testes iniciais, observou-se que grandes plataformas utilizam defesas modernas que dificultam a clonagem automática via setoolkit
 
 <img width="621" height="262" alt="Captura de tela 2026-01-25 182701" src="https://github.com/user-attachments/assets/ae1028e3-b9e3-417d-896d-23e10d8cd232" />
 
