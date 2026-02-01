@@ -64,4 +64,4 @@ O desafio se encerraria por ai, até vir a ideia de testar um site de jogos que 
 <img width="857" height="157" alt="Captura de tela 2026-01-31 210052" src="https://github.com/user-attachments/assets/f6a5db21-d19e-41bd-9716-1544e4c4e0ce" />
 
 Conclusão
-O laboratório comprovou que, embora defesas modernas dificultem ataques genéricos, a Engenharia Social aliada a páginas customizadas continua sendo um vetor crítico, uma URL falsa quando passa disapercebido pode causar graves problemas. A principal defesa contra esse ataque é o treinamento de usuários e o uso de autenticação multifator.
+O laboratório comprovou que, embora defesas modernas dificultem ataques genéricos, a Engenharia Social aliada a uma página fake continua sendo um vetor crítico, uma URL falsa quando passa disapercebido pode causar um estrago enorme. A principal defesa contra esse ataque é o treinamento de usuários e o uso de autenticação multifator.
