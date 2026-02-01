@@ -37,7 +37,7 @@ Durante os testes iniciais, observou-se que grandes plataformas utilizam defesas
 
 <img width="621" height="262" alt="Captura de tela 2026-01-25 182701" src="https://github.com/user-attachments/assets/ae1028e3-b9e3-417d-896d-23e10d8cd232" />
 
-Até mesmo no log da ferramenta não se encontra nada, até mesmo usando o comando grep para pesquisar pelo nome ficticio do email criado, sem resultados, e tambem na pasta expecifica do web clone.
+Mesmo no log da ferramenta não se encontra nada, até mesmo usando o comando grep para pesquisar pelo nome ficticio do email criado, sem resultados, e tambem na pasta expecifica do web clone.
 
 Podemos ver que alguns sites ultilizam do login em duas etapas, como é o caso do mercado livre, dificultando assim o phishing com ferramentas como essa, onde na primeira pagina e o login e na segunda pagina a senha.
 
